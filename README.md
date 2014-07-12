@@ -8,7 +8,7 @@ This is a submission for the 2014 ten.java contest.
 - __Theme:__
 - __Time:__ Time 3 (7/12/2014 14:00 to 7/13/2014 00:00 UTC)
 - __MC Version:__ 1.7.9 (latest Bukkit beta)
-- __Stream URL:__ None
+- __Stream URL:__ http://fr.justin.tv/paulamourj22
 
 <!-- put chosen theme above -->
 
