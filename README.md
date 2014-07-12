@@ -33,6 +33,3 @@ Usage
 
 <!-- Hi, PaulamourJ! This is the default README for every ten.java submission. -->
 <!-- We encourage you to edit this README with some information about your submission – keep in mind you'll be scored on documentation! -->
-
-
-NIUZDHGQEZIDGDUGZD
